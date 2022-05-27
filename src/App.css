@@ -1,0 +1,54 @@
+.header{
+  color : rgba(20, 17, 215, 0.831);
+  text-align: center;
+  padding-top: 40px;
+}
+.header h1 {
+  font-weight: 600;
+
+}
+.main{
+  background-color: rgba(178, 239, 232, 0.587);
+  padding-left: 15%;
+  padding-right: 15%;
+  margin: -20px -8px ;
+}
+.Content b{
+  font-size: 20px;
+}
+.set-content {
+  padding: 6px;
+  margin-top: 12px;
+  min-width: 60%;
+  border-radius: 10px;
+  font-size: 17px;
+}
+.search-submit {
+  padding: 6px;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+  font-size: 17px;
+}
+.alert{
+  width: 80%;
+  font-size: 16px;
+}
+.Tutorial  {
+  
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+.Tutorial li{
+  list-style-type: none;
+  line-height:24px;
+}
+
+.Footer{
+  text-align: center;
+  padding-bottom: 50px;
+  
+}
+.Footer img{
+  padding-top: 50px;
+}
